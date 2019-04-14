@@ -15,6 +15,3 @@ for x in range (1,1000):
     num = collatz (int (num))
     if num == 1:
         break
-
-import sys
-print (sys.version)
